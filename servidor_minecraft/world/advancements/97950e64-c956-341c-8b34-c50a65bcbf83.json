@@ -1,0 +1,27 @@
+{
+  "frosted_friends:frosted_friends": {
+    "criteria": {
+      "frosted_friends": "2025-12-03 01:02:41 +0000"
+    },
+    "done": true
+  },
+  "pizzacraft:root": {
+    "criteria": {
+      "tick": "2025-12-03 01:02:41 +0000"
+    },
+    "done": true
+  },
+  "coldsnaphorde:root": {
+    "criteria": {
+      "Login": "2025-12-03 01:02:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-12-03 01:02:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
